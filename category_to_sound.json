@@ -1,0 +1,12 @@
+{
+    
+    "door": "doorslam",
+    "chair": "woodthump",
+    "dining chair": "woodthump",
+    "stool": "woodthump",
+    "picture": "woodthump",
+    "bottle": "glassbreak",
+    "vase": "glassbreak",
+    "cup": "glassbreak",
+    "coffee mug": "glassbreak"
+}
